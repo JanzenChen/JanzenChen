@@ -2,8 +2,8 @@
 
 ### 你好，世界 👋
 
-- :punch:  Swift / Objc / uni-app
-- 🌱 I’m currently learning uni-app
+- :punch:  Swift / Objc / uni-app / Flutter
+- 🌱 I’m currently coding Flutter
 - :tropical_fish:  Programming lover
 
 ###### base 中国·北海
