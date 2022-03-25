@@ -1,5 +1,3 @@
-<img align="top" width="150" height="150" src="https://avatars.githubusercontent.com/u/18360524?s=400&u=05e8417609f51350b8aa8ef37444786fc8077854&v=4"/>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Janzen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，世界 👋
