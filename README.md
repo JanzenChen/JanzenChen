@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Janzen</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=520&lines=Cross+Platform+Developer;Mobile+%26+Frontend+Engineer;Flutter+%7C+React+%7C+Vue+%7C+HarmonyOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&center=true&vCenter=true&lines=Cross+Platform+Developer;Mobile+%26+Frontend+Engineer;Flutter+%7C+React+%7C+Vue+%7C+HarmonyOS" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
