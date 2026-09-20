@@ -12,16 +12,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JanzenChen&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JanzenChen&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanzenChen&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=你的用户名&color=blueviolet" alt="visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=JanzenChen&color=blueviolet" alt="visitor count"/>
 </p>
 
 <p align="center">⭐ Welcome to my GitHub profile!</p>
