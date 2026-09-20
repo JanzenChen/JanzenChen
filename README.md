@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://github-stats.mintimate.cn/api/top-langs/?username=JanzenChen&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="170"/>
 <img src="https://github-stats.mintimate.cn/api?username=JanzenChen&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" height="170"/>
-<img src="https://github-stats.mintimate.cn/api?username=JanzenChen&theme=tokyonight&hide_border=true&type=streak" alt="streak" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JanzenChen&theme=tokyonight&hide_border=true" alt="streak" height="170"/>
 </p>
 
 ###### base 中国·北海
