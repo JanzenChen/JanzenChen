@@ -1,4 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Janzen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=520&lines=Cross+Platform+Developer;Mobile+%26+Frontend+Engineer;Flutter+%7C+React+%7C+Vue+%7C+HarmonyOS" alt="Typing SVG" />
+</p>
 
 ### 🛠️ Tech Stack
 <p align="start">
@@ -7,17 +10,18 @@
 
 ###### base 中国·北海
 
-<!--
-**JanzenChen/JanzenChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=你的用户名&color=blueviolet" alt="visitor count"/>
+</p>
+
+<p align="center">⭐ Welcome to my GitHub profile!</p>
